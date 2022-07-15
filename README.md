@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Differentions
-- 👀 I’m interested in Minecraft and Cubinb
+- 👀 I’m interested in Valorant and Chess
 - 🌱 I’m currently learning Java and Lua!
-- 💞️ I’m looking to collaborate on Skytils!
+- 💞️ I’m looking to collaborate on Stockfish!
 - 📫 How to reach me email (yivince32@gmail.com)
 
 <!---
